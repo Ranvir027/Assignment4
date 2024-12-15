@@ -16,22 +16,25 @@ Documentation
 
 Ranvir
 Tasks:
+Setting up github repo
 Physics simulation for the ball and gravity.
-Camera and player controller setup.
-Git log and team planner creation.
+Camera setup.
 Greybox layout planning and testing in Godot.
+Debugging and testing.
 
 Vrinda
 Tasks:
 Add textures to the ramp and pathways.
 Design and greybox the ramp and pathways using MeshInstance3D.
 Greybox layout planning and testing in Godot.
+Debugging and testing.
 
 Aaradhya
 Tasks:
-Compile the final project as a Windows executable.
-Set up animations for the robot arm (using Path3D).
+Creating the task planner
+Set up animations for the robot arm.
 Documentation: Create README.md and license/resource reference lists.
-Debugging and testing interactions.
+Compile the final project as a Windows executable.
+Debugging and testing.
 Test overall game functionality.
-Greybox layout planning and testing in Godot.
+
